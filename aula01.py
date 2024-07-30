@@ -6,8 +6,8 @@ n2= float (input("Escreva outro número: "))
 soma= n1 + n2
 sub= n1 - n2 
 
-print(f"O resultado da soma é: " {soma}")
-prin
+print(f"O resultado da soma é: {soma}")
+print(f"O resultado da subtração é: {sub}")
  
 
 
